@@ -4,7 +4,7 @@ toDoListGUI is a simple Java based to do list program using Swing to create a Gr
 ## How to run the program
 1. Either fork or download the program and open the folder in the cli
 2. Install Java, the version used in this program is 17.0.3.
-3. Run the program using the command java toDoList.toDoMain in the project folder.
+3. Run the program using the command java toDoList.toDoMain in the bin folder.
 
 ## How to use the program
 1. Once the program is running, you can add a new task by clicking the add task button. It will create a blank task with the current time as the start time. Then click on Add Text Here and enter the text for the task and press enter or return when done.
