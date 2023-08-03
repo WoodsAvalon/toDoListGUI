@@ -112,7 +112,6 @@ public class toDoMain {
 		public void actionPerformed(ActionEvent e) {
 			if (e.getSource() == jbAdd) {
 				//adds new default task
-				System.out.println("Adding task!");
 				tManager.createTask();
 			}
 			else if (e.getSource() == jbComplete) {
@@ -142,7 +141,6 @@ public class toDoMain {
 		
 		//used to highlight selected task to interact with it
 		public void mouseClicked(MouseEvent e) {
-			System.out.println(e.getSource());
 			target = tManager.highLightTask(e.getSource());
 		}
 		
@@ -441,3 +439,4 @@ public class toDoMain {
 		}
 	}
 }
+
