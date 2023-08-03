@@ -13,4 +13,4 @@ toDoListGUI is a simple Java based to do list program using Swing to create a Gr
 4. To exit the program, either click on the X in the upper right corner of the window or on the exit button. When the program shuts down, it will automatically save the task list to a plain text file and when loading, will attempt to read the same file, loading recorded task into the program.
 
 ## What the app looks like
-![alt text](https://github.com/WoodsAvalon/toDoList/blob/main/toDoListGUI/toDoListGUI.jpg)
+![alt text](https://github.com/WoodsAvalon/toDoListGUI/blob/main/toDoList/toDoListGUI.jpg)
